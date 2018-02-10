@@ -1,2 +1,2 @@
-# Python-Mathmatical-Proof-by-Induction
+# Python-Mathematical-Proof-by-Induction
 A python -> HTML proof solver with steps
