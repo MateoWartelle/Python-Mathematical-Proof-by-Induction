@@ -15,7 +15,7 @@ p {
         position absolute;
         left: 0;
         top: 0;
-        content: "i=1";
+        content: "n";
         width: 22px;
         text-align: center;
     }
@@ -25,7 +25,7 @@ p {
         position absolute;
         left: 0;
         bottom: 0;
-        content: "n";
+        content: "i=1";
         width: 27px;
         text-align: center;
     }
